@@ -17,42 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About me
+Hao Shen（沈昊）is a second-year Ph.D. student of Software Engineering Institute, East China Normal University (2024–), advised by Prof. Mingsong Chen. He received his Bachelor's Degree in June 2021, and his Master's Degree in June 2024 from Nantong University, China, co-advised by Prof. Xiang Chen and Prof. Xiaolin Ju.
+His research interest mainly include:
+Trustworthy Code Generation (<font color="blue" size="3px">可信代码生成</font>)
+Software Security (<font color="blue" size="3px">软件安全</font>)
+Program Analysis (<font color="blue" size="3px">程序分析</font>)
+<span class='anchor' id='-pub'></span>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📝 Publications
+2026
+---
+`ISSTA 2026` (<span style="color:red">CCF-A</span>) Hao Shen, Ming Hu*, Jiaye Li, Xiaofei Xie, and Mingsong Chen*, [Silence of Commit Messages: An Empirical Study for Vulnerability Commit Message Generation Using Large Language Models](). In Proceedings of SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Directly Accepted, 2026.
+`TOSEM` (<span style="color:red">CCF-A</span>) Hao Shen, Ming Hu*, Xiaofei Xie, Jiaye Li, and Mingsong Chen*, [Separate Bombs from Firecrackers: Intention-guided Vulnerability Assessment via LLM](). ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted, 2026.
+`DATE 2026` (<span style="color:orange">CCF-B</span>) Hao Shen, Ming Hu*, Yanxin Yang, Xiaofei Xie, and Mingsong Chen*, [Enhance Language Model-based Repair for Memory-related Vulnerabilities via Knowledge- and Semantic-guided Analysis](). In Proceedings of Design, Automation and Test in Europe Conference (DATE), Accepted, 2026.
+2024
+---
+`ASE 2024` (<span style="color:orange">CCF-B</span>) Zilong Ren, Xiaolin Ju*, Xiang Chen, Hao Shen, [ProRLearn: boosting prompt tuning-based vulnerability detection by reinforcement learning](). Automated Software Engineering (ASE), Accepted, 2024.
+`QRS 2024` (<span style="color:green">CCF-C</span>) Yucheng Zhang, Chenqiang Shen, Xiaolin Ju*, Hao Shen, Xiang Chen, [Ada4DP: Adversarial Enhanced Dual-Attentive Aggregation Learning for Defect Prediction](). In Proceedings of Software Quality, Reliability, and Security Companion (QRS), Accepted, 2024.
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+2023
+---
+`COMPSAC 2023` (<span style="color:green">CCF-C</span>) Hao Shen, Xiaolin Ju*, Xiang Chen*, Guang Yang, [EDP-BGCNN: effective defect prediction via BERT-based graph convolutional neural network](). In Proceedings of Annual Computers, Software, and Applications Conference (COMPSAC), Accepted, 2023.
+`APSEC 2023` (<span style="color:green">CCF-C</span>) Guilong Lu, Xiaolin Ju*, Xiang Chen, Shaoyu Yang, Liang Chen, Hao Shen, [Assessing the effectiveness of vulnerability detection via prompt tuning: An empirical study](). In Proceedings of Asia-Pacific Software Engineering Conference (APSEC), Accepted, 2023.
+2021
+---
+`QRS 2021` (<span style="color:green">CCF-C</span>) Jie Qian, Xiaolin Ju*, Xiang Chen, Hao Shen, Yiheng Shen, [AGFL: a graph convolutional neural network-based method for fault localization](). In Proceedings of International Conference on Software Quality, Reliability and Security (QRS), Accepted, 2021.
