@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-Hao Shen（沈昊）is a second-year Ph.D. student of Software Engineering Institute, East China Normal University (2024–), advised by Prof. Mingsong Chen. He received his Bachelor's Degree in June 2021, and his Master's Degree in June 2024 from Nantong University, China, co-advised by Prof. Xiang Chen and Prof. Xiaolin Ju.
+Hao Shen（沈昊）is a second-year Ph.D. student of Software Engineering Institute, East China Normal University (2024–), advised by Prof. [Mingsong Chen](https://faculty.ecnu.edu.cn/_s43/cms/main.psp). He received his Bachelor's Degree in June 2021, and his Master's Degree in June 2024 from Nantong University, China, co-advised by Prof. [Xiang Chen](https://xchencs.github.io/index.html) and Prof. [Xiaolin Ju](https://ntu-juking.github.io/).
 His research interest mainly include:
 
-Trustworthy Code Generation (<font color="blue" size="3px">可信代码生成</font>)
+--Trustworthy Code Generation (<font color="blue" size="3px">可信代码生成</font>)--
 Software Security (<font color="blue" size="3px">软件安全</font>)
 Program Analysis (<font color="blue" size="3px">程序分析</font>)
 <span class='anchor' id='-pub'></span>
@@ -42,6 +42,7 @@ Program Analysis (<font color="blue" size="3px">程序分析</font>)
 ---
 
 `ASE 2024` (<span style="color:orange">CCF-B</span>) Zilong Ren, Xiaolin Ju*, Xiang Chen, Hao Shen, [ProRLearn: boosting prompt tuning-based vulnerability detection by reinforcement learning](). Automated Software Engineering (ASE), Accepted, 2024.
+
 `QRS 2024` (<span style="color:green">CCF-C</span>) Yucheng Zhang, Chenqiang Shen, Xiaolin Ju*, Hao Shen, Xiang Chen, [Ada4DP: Adversarial Enhanced Dual-Attentive Aggregation Learning for Defect Prediction](). In Proceedings of Software Quality, Reliability, and Security Companion (QRS), Accepted, 2024.
 
 2023
