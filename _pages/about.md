@@ -32,11 +32,13 @@ His research interest mainly include:
 # 📝 Publications
 ### 2026
 ---
--   ``ISSTA 2026`` (<span style="color:red">CCF-A</span>) **Hao Shen**, Ming Hu\*, Jiaye Li, Xiaofei Xie, and Mingsong Chen\*, [Silence of Commit Messages: An Empirical Study for Vulnerability Commit Message Generation Using Large Language Models](). In Proceedings of SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Directly Accepted, 2026.
+-   ``ICML 2026`` (<span style="color:red">CCF-A</span>) Yuejun Jiao, Jun Xia, Yanxin Yang, Yonghao Yang, **Hao Shen**, Mingsong Chen\*, [TAMPO: Task- and Model-Aware Automatic Prompt Optimization for Auto-Routing in LLM-based Systems(). In Proceedings of International Conference on Machine Learning (ICML), Accepted, 2026-05.
 
--   ``TOSEM`` (<span style="color:red">CCF-A</span>) **Hao Shen**, Ming Hu\*, Xiaofei Xie, Jiaye Li, and Mingsong Chen\*, [Separate Bombs from Firecrackers: Intention-guided Vulnerability Assessment via LLM](). ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted, 2026.
+-   ``ISSTA 2026`` (<span style="color:red">CCF-A</span>) **Hao Shen**, Ming Hu\*, Jiaye Li, Xiaofei Xie, and Mingsong Chen\*, [Silence of Commit Messages: An Empirical Study for Vulnerability Commit Message Generation Using Large Language Models](). In Proceedings of SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Directly Accepted, 2026-04.
 
--   ``DATE 2026`` (<span style="color:orange">CCF-B</span>) **Hao Shen**, Ming Hu\*, Yanxin Yang, Xiaofei Xie, and Mingsong Chen\*, [Enhance Language Model-based Repair for Memory-related Vulnerabilities via Knowledge- and Semantic-guided Analysis](). In Proceedings of Design, Automation and Test in Europe Conference (DATE), Accepted, 2026.
+-   ``TOSEM`` (<span style="color:red">CCF-A</span>) **Hao Shen**, Ming Hu\*, Xiaofei Xie, Jiaye Li, and Mingsong Chen\*, [Separate Bombs from Firecrackers: Intention-guided Vulnerability Assessment via LLM](). ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted, 2026-01.
+
+-   ``DATE 2026`` (<span style="color:orange">CCF-B</span>) **Hao Shen**, Ming Hu\*, Yanxin Yang, Xiaofei Xie, and Mingsong Chen\*, [Enhance Language Model-based Repair for Memory-related Vulnerabilities via Knowledge- and Semantic-guided Analysis](). In Proceedings of Design, Automation and Test in Europe Conference (DATE), Accepted, 2025-11.
 
 ### 2024
 ---
