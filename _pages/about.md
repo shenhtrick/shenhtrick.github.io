@@ -32,6 +32,8 @@ His research interests mainly include:
 # 📝 Publications
 ### 2026
 ---
+-   ``MM 2026`` (<span style="color:red">CCF-A</span>) Xianfei Cai, Yanxin Yang, Ming Hu, **Hao Shen**, Yuejun Jiao, Wei Jiang, Mingsong Chen\*, [Suit the Remedy to the Case: Precise Backdoor Elimination for Text-to-Image Diffusion Models via Model Editing](). In Proceedings of International Conference on Multimedia (MM), Accepted, 2026-07.
+
 -   ``ICML 2026`` (<span style="color:red">CCF-A</span>) Yuejun Jiao, Jun Xia, Yanxin Yang, Yonghao Yang, **Hao Shen**, Mingsong Chen\*, [TAMPO: Task- and Model-Aware Automatic Prompt Optimization for Auto-Routing in LLM-based Systems](). In Proceedings of International Conference on Machine Learning (ICML), Accepted, 2026-05.
 
 -   ``ISSTA 2026`` (<span style="color:red">CCF-A</span>) **Hao Shen**, Ming Hu\*, Jiaye Li, Xiaofei Xie, and Mingsong Chen\*, [Silence of Commit Messages: An Empirical Study for Vulnerability Commit Message Generation Using Large Language Models](). In Proceedings of SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Directly Accepted, 2026-04.
