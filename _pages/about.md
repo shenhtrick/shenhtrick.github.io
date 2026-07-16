@@ -32,6 +32,8 @@ His research interests mainly include:
 # 📝 Publications
 ### 2026
 ---
+-   ``TCAD 2026`` (<span style="color:red">CCF-A</span>) **Hao Shen**, Mingsong Chen\*, [RTLGuard: Intent-Driven RTL Vulnerability Detection via LLMs](). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Accepted, 2026-07.
+
 -   ``MM 2026`` (<span style="color:red">CCF-A</span>) Xianfei Cai, Yanxin Yang, Ming Hu, **Hao Shen**, Yuejun Jiao, Wei Jiang, Mingsong Chen\*, [Suit the Remedy to the Case: Precise Backdoor Elimination for Text-to-Image Diffusion Models via Model Editing](). In Proceedings of International Conference on Multimedia (MM), Accepted, 2026-07.
 
 -   ``ICML 2026`` (<span style="color:red">CCF-A</span>) Yuejun Jiao, Jun Xia, Yanxin Yang, Yonghao Yang, **Hao Shen**, Mingsong Chen\*, [TAMPO: Task- and Model-Aware Automatic Prompt Optimization for Auto-Routing in LLM-based Systems](). In Proceedings of International Conference on Machine Learning (ICML), Accepted, 2026-05.
