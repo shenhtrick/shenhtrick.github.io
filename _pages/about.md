@@ -32,6 +32,10 @@ His research interests mainly include:
 # 📝 Publications
 ### 2026
 ---
+-   ``Information Sciences 2026`` (<span style="color:orange">CCF-B</span>) Yiheng Shen, Wei Zheng\*, Xiao Wei, **Hao Shen**, Xiang Chen, Guang Yange\*, [Quality over Quantity: Diversity-Aware Data Selection for Efficient Verilog Code Generation](). Information Sciences, Accepted, 2026-10.
+
+-   ``NeurIPS 2026`` (<span style="color:red">CCF-A</span>) Yuejun Jiao, Yanxin Yang, Boyu Wang, Yonghao Yang, **Hao Shen**, Mingsong Chen\*, [ DART: Zero-Shot Dual-Side Alignment Routing for LLM Performance-Cost Tradeoffs](). In Proceedings of Conference on Neural Information Processing Systems (NeurIPS), Accepted, 2026-09.
+
 -   ``TCAD 2026`` (<span style="color:red">CCF-A</span>) **Hao Shen**, Mingsong Chen\*, [RTLGuard: Intent-Driven RTL Vulnerability Detection via LLMs](). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Accepted, 2026-08.
 
 -   ``MM 2026`` (<span style="color:red">CCF-A</span>) Xianfei Cai, Yanxin Yang, Ming Hu, **Hao Shen**, Yuejun Jiao, Wei Jiang, Mingsong Chen\*, [Suit the Remedy to the Case: Precise Backdoor Elimination for Text-to-Image Diffusion Models via Model Editing](). In Proceedings of International Conference on Multimedia (MM), Accepted, 2026-07.
