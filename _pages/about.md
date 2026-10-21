@@ -63,3 +63,9 @@ His research interests mainly include:
 ### 2021
 ---
 -   ``QRS 2021`` (<span style="color:green">CCF-C</span>) Jie Qian, Xiaolin Ju\*, Xiang Chen, **Hao Shen**, Yiheng Shen, [AGFL: a graph convolutional neural network-based method for fault localization](). In Proceedings of International Conference on Software Quality, Reliability and Security (QRS), Accepted, 2021.
+
+
+# 🏅 Honors and Awards
+---
+-   2026: Young Science and Technology Scientists Sponsorship Program by CAST - Doctoral Student Special Plan （入选中国科协青年科技人才培育工程博士生专项计划）
+
