@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-Hao Shen（沈昊）is a third-year Ph.D. student of Software Engineering Institute, East China Normal University (2024–), advised by Prof. [Mingsong Chen](https://faculty.ecnu.edu.cn/_s43/cms/main.psp). He received his Bachelor's Degree in June 2021, and his Master's Degree in June 2024 from Nantong University, China, co-advised by Prof. [Xiang Chen](https://xchencs.github.io/index.html) and Prof. [Xiaolin Ju](https://ntu-juking.github.io/).
+Hao Shen（沈昊）is a third-year Ph.D. student at Software Engineering Institute, East China Normal University (2024–), advised by Prof. [Mingsong Chen](https://faculty.ecnu.edu.cn/_s43/cms/main.psp). He received his Bachelor's Degree in June 2021, and his Master's Degree in June 2024 from Nantong University, China, co-advised by Prof. [Xiang Chen](https://xchencs.github.io/index.html) and Prof. [Xiaolin Ju](https://ntu-juking.github.io/).
 His research interests mainly include:
 
 - Trustworthy Code Generation (<font color="blue" size="3px">可信代码生成</font>)
@@ -27,6 +27,10 @@ His research interests mainly include:
 
 <span class='anchor' id='-pub'></span>
 
+
+# 🎓 Educations
+- *2026.11 - Now*, **Visiting Student** (Software Engineering) funded by Mingsong Chen(https://faculty.ecnu.edu.cn/_s43/cms/main.psp), supervised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) at Nanyang Technological University, Singapore.
+- *2024.09 - Now*, **Ph.D** (Software Engineering) supervised by Prof. [Mingsong Chen](https://faculty.ecnu.edu.cn/_s43/cms/main.psp) at East China Normal University, Shanghai, China.
 
 
 # 📝 Publications
