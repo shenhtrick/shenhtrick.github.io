@@ -29,7 +29,7 @@ His research interests mainly include:
 
 
 # 🎓 Educations
-- *2026.11 - Now*, **Visiting Student** (Software Engineering) funded by Mingsong Chen(https://faculty.ecnu.edu.cn/_s43/cms/main.psp), supervised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) at Nanyang Technological University, Singapore.
+- *2026.11 - Now*, **Visiting Student** (Software Engineering) funded by [Mingsong Chen](https://faculty.ecnu.edu.cn/_s43/cms/main.psp), supervised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) at Nanyang Technological University, Singapore.
 - *2024.09 - Now*, **Ph.D** (Software Engineering) supervised by Prof. [Mingsong Chen](https://faculty.ecnu.edu.cn/_s43/cms/main.psp) at East China Normal University, Shanghai, China.
 
 
